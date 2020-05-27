@@ -1,15 +1,28 @@
 {
   "name": "convert-array-json",
-  "version": "1.0.0",
+  "version": "0.1.3",
+  "description": "This package convert json to array and array to json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "npm",
+    "array",
+    "json"
+  ],
+  "author": "Daniel Rodrigues",
+  "license": "MIT",
+  "homepage": "https://github.com/eusouodaniel/convert-array-json",
   "dependencies": {
-    "convert-array-json": "file:../convert-array-json"
+    "convert-array-json": "^0.1.3"
   },
-  "keywords": [],
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusouodaniel/convert-array-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eusouodaniel/convert-array-json/issues"
+  }
 }
